@@ -207,7 +207,7 @@ const App = () => {
       mb-3
       "
           >
-            🌱 Smart Plant Care Tracker
+            🌱 Plant Care Tracker
           </h1>
 
           <p
